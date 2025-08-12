@@ -50,13 +50,19 @@ Core algorithms, proprietary design specifications, and manufacturing IP are int
 
 ---
 
-## 4. Integration Preparation
+## 4. Product Renders
+<p align="center" style="color: grey; font-size: 0.85em;">
+<img src="3-D Prototypes/Product Expanded.jpg" width="45%">
+<img src="3-D Prototypes/Product Collapsed.jpg" width="45%">
+</p>
+
+---
+
+## 5. Integration Preparation
 - Prepared simulation-backed component stress tolerances for hardware integration.  
 - Developed UI mockups and basic application framework for device pairing and timing control.  
 
 ---
 
 **Note:** All images are watermarked and not to scale.  
-
-
 
