@@ -19,11 +19,11 @@ Core algorithms, proprietary design specifications, and manufacturing IP are int
 
 ### Selected Simulation Outputs (Watermarked)
 <p align="center" style="color: grey; font-size: 0.85em;">
-<img src="simulation/Directional Deformation (captured).jpg" width="45%">
-<img src="simulation/Equivalent Stress (captured).jpg" width="45%">
+<img src="Simulation and Testing/Directional Deformation.jpg" width="45%">
+<img src="Simulation and Testing/Equivalent Stress.jpg" width="45%">
 <br>
-<img src="simulation/Factor of Safety (captured).jpg" width="45%">
-<img src="simulation/Total Deformation (captured).jpg" width="45%">
+<img src="Simulation and Testing/Factor of Safety.jpg" width="45%">
+<img src="Simulation and Testing/Total Deformation.jpg" width="45%">
 </p>
 
 ---
@@ -43,9 +43,9 @@ Core algorithms, proprietary design specifications, and manufacturing IP are int
 
 ### Prototype Images (Watermarked)
 <p align="center" style="color: grey; font-size: 0.85em;">
-<img src="testing/3-D Printed.jpg" width="30%">
-<img src="testing/front-view.jpg" width="30%">
-<img src="testing/Side-view.jpg" width="30%">
+<img src="3-D Prototypes/Prototype - 3D Printed.jpg" width="30%">
+<img src="3-D Prototypes/Prototype - Front View.jpg" width="30%">
+<img src="3-D Prototypes/Prototype - Side View.jpg" width="30%">
 </p>
 
 ---
@@ -57,5 +57,6 @@ Core algorithms, proprietary design specifications, and manufacturing IP are int
 ---
 
 **Note:** All images are watermarked and not to scale.  
+
 
 
