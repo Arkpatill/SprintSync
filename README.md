@@ -2,7 +2,7 @@
 
 A product development initiative focused on creating precision sprinting and performance tracking solutions for athletics, designed to enhance training accuracy and efficiency.  
 
-# SprintSync – Development Documentation
+# SprintSync – Development Documentation  
 
 This repository records the non-confidential technical progress for the SprintSync system.  
 Core algorithms, proprietary design specifications, and manufacturing IP are intentionally excluded.  
@@ -47,6 +47,12 @@ Core algorithms, proprietary design specifications, and manufacturing IP are int
 <img src="testing/front-view.jpg" width="30%">
 <img src="testing/Side-view.jpg" width="30%">
 </p>
+
+---
+
+## 4. Integration Preparation
+- Prepared simulation-backed component stress tolerances for hardware integration.  
+- Developed UI mockups and basic application framework for device pairing and timing control.  
 
 ---
 
