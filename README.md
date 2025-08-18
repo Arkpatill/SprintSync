@@ -41,20 +41,8 @@ Core algorithms, proprietary design specifications, and manufacturing IP are int
 - Performed design-for-assembly (DFA) checks for manufacturability.
 - Integrated cable routing and internal protection elements into the structure.
 
-### Prototype Images (Watermarked)
-<p align="center" style="color: grey; font-size: 0.85em;">
-<img src="3-D Prototypes/Prototype - 3D Printed.jpg" width="30%">
-<img src="3-D Prototypes/Prototype - Front View.jpg" width="30%">
-<img src="3-D Prototypes/Prototype - Side View.jpg" width="30%">
-</p>
 
 ---
-
-## 4. Product Renders
-<p align="center" style="color: grey; font-size: 0.85em;">
-<img src="3-D Prototypes/Product Expanded.jpg" width="45%">
-<img src="3-D Prototypes/Product Collapsed.jpg" width="45%">
-</p>
 
 ---
 
